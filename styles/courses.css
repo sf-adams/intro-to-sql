@@ -31,8 +31,7 @@ img {
 
 body {
   font-family: "Open Sans";
-  background: linear-gradient(90deg, var(--bg-main) 15px, transparent 1%) center,
-    linear-gradient(var(--bg-main) 15px, transparent 1%) center, var(--bg-dots);
+  background: var(--bg-main);
   background-size: 16px 16px;
   margin: 0;
 }
@@ -173,7 +172,7 @@ header .cta-btn {
 }
 
 .jumbotron .courseIcon {
-  background: var(--secondary);
+  background: var(--highlight);
 }
 
 .jumbotron .courseIcon img {
@@ -249,8 +248,13 @@ header .cta-btn {
   max-width: 300px;
 }
 
+.lesson h3 {
+  margin-top: 10px;
+}
+
 .lesson p {
   clear: both;
+  margin-bottom: 1rem;
 }
 
 .lesson p,
@@ -516,4 +520,11 @@ ol.sections-name .lesson-details {
   font-size: 24px;
   line-height: 24px;
   padding: 0px 5px;
+}
+
+pre {
+  /* background: var(--primary-opacity-50); */
+  border: 3px solid var(--primary);
+  padding: 1rem;
+  border-radius: 0.5rem;
 }

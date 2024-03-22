@@ -1,18 +1,17 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Sam Adams",
+    "company": "Not My First Codeo"
   },
-  "title": "Next.js Course Starter Kit",
-  "subtitle": "for Frontend Masters",
+  "title": "Intro to SQL Programming",
+  "subtitle": "A Beginner's Guide to Database Management",
   "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "sf-adams",
+    "github": "sf-adams"
   },
   "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
-  "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter",
+  "keywords": ["sql", "beginner", "data"],
+  "productionBaseUrl": "/intro-to-sql",
   "csvPath": "./out/lessons.csv"
 }

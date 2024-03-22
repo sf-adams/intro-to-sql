@@ -1,7 +1,7 @@
-<h1 align="center">next-course-starter</h1> <br>
+<h1 align="center">Intro to SQL</h1> <br>
 
 <p align="center">
-  A NextJS starter to get you started creating educational materials using Markdown
+  An 8 lesson course, covering the basics of SQL and MySQL
 </p>
 
 ## Get Started
