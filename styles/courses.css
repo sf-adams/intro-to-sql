@@ -267,6 +267,10 @@ header .cta-btn {
   padding: 15px 0;
 }
 
+.lesson ul {
+  margin-bottom: 1rem;
+}
+
 .lesson li li {
   margin-left: 25px;
 }
